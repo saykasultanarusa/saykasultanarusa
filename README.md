@@ -71,7 +71,7 @@ My goal is to become a skilled software developer by continuously learning, prac
 
 * 💻 **GitHub:** [Sayka Sultana Rusa](https://github.com/)
 * 🎓 **University:** United International University
-* 📧 **Email:** *Add your email here*
+* 📧 **Email:** rusasayka@gmail.ccom
 
 ---
 
